@@ -80,7 +80,7 @@ impacto mr oci bucket > meu-bucket.yaml
 # Edite o arquivo meu-bucket.yaml para preencher os campos necessários
 ```
 
-### Aplicar o manifesto gerado
+### Aplicar o manifesto gerado depois da edição
 ```
 kubectl apply -f meu-bucket.yaml
 ```
