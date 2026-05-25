@@ -162,9 +162,9 @@ Cobertura atual inclui:
 
 ---
 
-## 📄 Licença
+## 🚧 Status do Projeto
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+O Impacto CLI é atualmente um experimento/MVP focado em uso local. No momento, **não estamos aceitando Pull Requests ou contribuições externas**, pois a arquitetura do projeto passará por grandes mudanças estruturais em breve. Fique à vontade para abrir Issues com feedbacks e sugestões!
 
 ---
 
