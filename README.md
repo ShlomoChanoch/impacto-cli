@@ -24,6 +24,11 @@ No momento, estamos focados em recursos da Oracle Cloud Infrastructure (OCI), ma
 - Go 1.21+ (apenas para compilar; o binário final é independente)
 - Cluster Kubernetes com Crossplane instalado e Providers OCI configurados
 
+### Onde encontrar provedores e recursos suportados
+
+A Oracle disponibiliza os pacotes do Crossplane Provider OCI no GitHub Packages. Você pode verificar os recursos disponíveis e suas versões acessando:
+[https://github.com/orgs/oracle/packages?repo_name=crossplane-provider-oci](https://github.com/orgs/oracle/packages?repo_name=crossplane-provider-oci)
+
 ### Instalação via `go install`
 ```bash
 go install github.com/ShlomoChanoch/impacto-cli@latest
