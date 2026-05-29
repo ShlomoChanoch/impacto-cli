@@ -6,6 +6,8 @@ O Impacto CLI ajuda desenvolvedores a provisionar infraestrutura em nuvem atrav�
 
 No momento, estamos focados em recursos da Oracle Cloud Infrastructure (OCI), mas a arquitetura é extensível para suportar outros provedores no futuro.
 
+Ele criado com um agente de IA (DeepSeek v4 Pro) através do [BMad Method](https://github.com/bmad-code-org/bmad-method).
+
 ---
 
 ## 🚀 Funcionalidades
